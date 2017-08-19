@@ -33,4 +33,6 @@
 
 #Debug Directory
 cmake-build-debug/
+videos_in/
+videos_out/
 .idea
